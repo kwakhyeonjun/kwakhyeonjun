@@ -1,17 +1,17 @@
-# 안녕하세요, 곽현준입니다.
+# ✋ 안녕하세요, 곽현준입니다.
 
 ➕ 확실한 목표를 세우고 성취하는 것에서 희열을 느낍니다.
 
 ➕ 하나씩, 차근차근, 끝까지 문제를 해결하기 위해 노력합니다.
 
-# Contacts
+# 📨 Contacts
 
 <p align="center">
 <a href="mailto:goag56789006@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=goag56789006@gmail.com"/></a>
 <a href="mailto:kwak0568@naver.com"><img height="25em" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=kwak0568@naver.com"/></a>
 </p>
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -32,6 +32,6 @@
     <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="jirasoftware"/> <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </p>
 
-# Git Status
+# 🎚️ Git Status
 
 [![Hyeonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwakhyeonjun)](https://github.com/anuraghazra/github-readme-stats)
