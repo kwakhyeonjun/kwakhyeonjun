@@ -9,6 +9,7 @@
 <p align="center">
 <a href="mailto:goag56789006@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=goag56789006@gmail.com"/></a>
 <a href="mailto:kwak0568@naver.com"><img height="25em" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=kwak0568@naver.com"/></a>
+<a href="https://velog.io/@kwak0568"><img height="25em" src="https://img.shields.io/badge/Velog-1dbf73?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kwak0568"/></a>
 </p>
 
 # 🛠️ Tech Stack
